@@ -2,7 +2,7 @@
     "name": "dygabriel31/ipt10-strategy-pattern",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Strategy\\": "src/"
         }
     },
     "authors": [
